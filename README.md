@@ -17,7 +17,7 @@ A curated collection of quick-reference standford guides covering core topics in
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/AI-ML-Cheatsheets.git
+git clone https://github.com/analyticalrohit/AI-ML-Cheatsheets.git
 ```
 
 ## 📄 Contributing
