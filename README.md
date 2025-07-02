@@ -21,7 +21,7 @@ A curated collection of quick-reference standford guides covering core topics in
 git clone https://github.com/analyticalrohit/AI-ML-Cheatsheets.git
 ```
 
-<h3 align="left">📬 Newsletter</h3>
+## 📬 Newsletter
 
 <div align="left">
 
